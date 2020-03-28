@@ -1,4 +1,4 @@
-🚀 Tecnologias usadas
+🚀 Tecnologias usadas:
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Node.js,
@@ -6,7 +6,7 @@ Expo,
 Express,
 React.
 
-💪 Projeto
+💪 Projeto:
 Be the Hero é um projeto que visa ajudar, de maneira financeira uma instituição de caridade, ajudando a mesma se manter.
 
 🦸‍♂️ Qual a importância de ajudar uma ONG?
